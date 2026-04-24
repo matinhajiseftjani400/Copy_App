@@ -49,7 +49,12 @@ python Copy_App.py
 - **الهام‌گرفته از**: تجربه‌ای ناب در مدرسه و استاد افسانه‌ای
 
 ---
+## 💵 دونیت
+<a href="https://www.coffeebede.com/matindev"><img class="img-fluid" src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
+---
 
 ## لایسنس
 
 MIT License – آزادید هرجور که خواستید ازش استفاده کنید (با مسئولیت خودتون!)
+---
